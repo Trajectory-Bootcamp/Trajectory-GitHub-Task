@@ -9,7 +9,7 @@
 4. `Atleast, I am the creator of everything in this file.`
 
 ### NOW YOU SEE ME :-
-<img src = https://raw.githubusercontent.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/main/Pictures/Adolf-Hitler-1933.jpeg>
+<img src = https://raw.githubusercontent.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/main/Pictures/seb_vettel.jpeg>
 
 ### My socials :-
 You can't follow me sorry.
