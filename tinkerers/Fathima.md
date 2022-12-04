@@ -3,4 +3,4 @@
    My goal is to learn and develop new skills in coding.
 
 # Linkedin 
-https://www.linkedin.com/in/fathima-firoz-0b6b6222b
+- [Linkedin](https://www.linkedin.com/in/fathima-firoz-0b6b6222b)
