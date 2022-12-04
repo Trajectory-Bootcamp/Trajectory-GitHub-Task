@@ -6,6 +6,6 @@
 
 
 ## SOCIALS
-**Linkedin:** https://www.linkedin.com/in/s-anushree-923822253
+[**Linkedin:**](https://www.linkedin.com/in/s-anushree-923822253)
 
 
