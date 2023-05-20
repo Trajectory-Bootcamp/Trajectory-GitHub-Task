@@ -24,3 +24,4 @@
 22. [Seethal Anil](https://trajectory-bootcamp.github.io/Trajectory-GitHub-Task/tinkerers/Seethal_Anil.html)
 23. [Sachin Raj M](https://trajectory-bootcamp.github.io/Trajectory-GitHub-Task/tinkerers/sachin_raj_m.html)
 24. [Nora](https://trajectory-bootcamp.github.io/Trajectory-GitHub-Task/tinkerers/Nora.html)
+25. [Vedasree M](https://trajectory-bootcamp.github.io/Trajectory-GitHub-Task/tinkerers/VEDASREE_M.html)
